@@ -80,7 +80,3 @@ flask_app/
 - **Backend**: Flask, SQLAlchemy, SQLite
 - **Frontend**: HTML, Tailwind CSS, JavaScript
 - **Authentication**: Flask session management
-
-## License
-
-MIT
